@@ -3,7 +3,7 @@
 
 ## Python
 * [x] [1. Hello Python](/python/hello-python.ipynb)
-* [ ] [2. Exercise: Syntax, Variables, and Numbers](#)
+* [x] [2. Exercise: Syntax, Variables, and Numbers](/python/syntax-variables-numbers.ipynb)
 * [ ] [3. Functions and Getting Help](#)
 * [ ] [4. Exercise: Functions and Getting Help](#)
 * [ ] [5. Booleans and Conditionals](#)
