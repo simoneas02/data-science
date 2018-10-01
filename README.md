@@ -5,7 +5,7 @@
 * [x] [1. Hello Python](/python/hello-python.ipynb)
 * [x] [2. Exercise: Syntax, Variables, and Numbers](/python/syntax-variables-numbers.ipynb)
 * [x] [3. Functions and Getting Help](/python/functions.ipynb)
-* [ ] [4. Exercise: Functions and Getting Help](#)
+* [x] [4. Exercise: Functions and Getting Help](/python/exercise-functions.ipynb)
 * [ ] [5. Booleans and Conditionals](#)
 * [ ] [6. Exercise: Booleans and Conditionals](#)
 * [ ] [7. Lists](#)
