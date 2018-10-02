@@ -7,7 +7,7 @@
 * [x] [3. Functions and Getting Help](/python/functions.ipynb)
 * [x] [4. Exercise: Functions and Getting Help](/python/exercise-functions.ipynb)
 * [x] [5. Booleans and Conditionals](/python/booleans-and-conditionals.ipynb)
-* [ ] [6. Exercise: Booleans and Conditionals](#)
+* [x] [6. Exercise: Booleans and Conditionals](/python/exercise-booleans-and-conditionals.ipynb)
 * [ ] [7. Lists](#)
 * [ ] [8. Exercise: Lists](#)
 * [ ] [9. Loops and List Comprehensions](#)
