@@ -11,7 +11,7 @@
 * [x] [7. Lists](/python/lists.ipynb)
 * [x] [8. Exercise: Lists](/python/exercise-lists.ipynb)
 * [x] [9. Loops and List Comprehensions](/python/loops.ipynb)
-* [ ] [10. Exercise: Loops and List Comprehensions](#)
+* [x] [10. Exercise: Loops and List Comprehensions](/python/exercise-loops.ipynb)
 * [ ] [11. Strings and Dictionaries](#)
 * [ ] [12. Exercise: Strings and Dictionaries](#)
 * [ ] [13. Working with External Libraries](#)
