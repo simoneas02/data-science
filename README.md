@@ -13,8 +13,8 @@
 - [x] [9. Loops and List Comprehensions](/python/loops.ipynb)
 - [x] [10. Exercise: Loops and List Comprehensions](/python/exercise-loops.ipynb)
 - [x] [11. Strings and Dictionaries](/python/strings-and-dictionaries.ipynb)
-- [ ] [12. Exercise: Strings and Dictionaries](#)
-- [ ] [13. Working with External Libraries](#)
+- [x] [12. Exercise: Strings and Dictionaries](/python/exercise-strings-dictionaries.ipynb)
+- [x] [13. Working with External Libraries](/python/working-with-external-libraries.ipynb)
 - [ ] [14. Exercise: Working with External Libraries](#)
 
 ## Machine Learning
