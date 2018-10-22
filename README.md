@@ -39,6 +39,7 @@
 - [ ] [5. Data types and missing data workbook](#)
 - [ ] [6. Renaming and combining workbook](#)
 - [ ] [7. Method chaining workbook](#)
+- [ ] [test](#)
 
 ## Data Visualisation
 ## SQL
