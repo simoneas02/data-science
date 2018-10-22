@@ -32,6 +32,14 @@
 - [ ] [12. Exercise: Machine Learning Competitions](#)
 
 ## Pandas
+- [ ] [1. Creating, reading, and writing workbook](#)
+- [ ] [2. Indexing, Selecting & Assigning](#)
+- [ ] [3. Summary functions and maps workbook](#)
+- [ ] [4. Grouping and Sorting](#)
+- [ ] [5. Data types and missing data workbook](#)
+- [ ] [6. Renaming and combining workbook](#)
+- [ ] [7. Method chaining workbook](#)
+
 ## Data Visualisation
 ## SQL
 ## R
