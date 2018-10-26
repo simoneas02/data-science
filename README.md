@@ -18,7 +18,7 @@
 - [ ] [14. Exercise: Working with External Libraries](#)
 
 ## Machine Learning
-- [ ] [1. How Models Work](#)
+- [x] 1. How Models Work
 - [ ] [2. Explore Your Data](#)
 - [ ] [3. Exercise: Explore Your Data](#)
 - [ ] [4. Your First Machine Learning Model](#)
